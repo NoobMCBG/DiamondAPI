@@ -1,0 +1,23 @@
+name: DiamondAPI
+main: NoobMCBG\DiamondAPI\DiamondAPI
+api: 4.0.0
+version: 1.0.0
+author: NoobMCBG
+
+permissions:
+  diamondapi.*:
+    default: true
+  diamondapi.set:
+    default: op
+  diamondapi.give:
+    default: op
+  diamondapi.my:
+    default: true
+  diamondapi.see:
+    default: true
+  diamondapi.pay:
+    default: true
+  diamondapi.take:
+    default: op
+  diamondapi.top:
+    default: op
